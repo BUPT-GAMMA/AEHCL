@@ -1,3 +1,5 @@
+The source code of "Abnormal Event Detection via Hypergraph Constractive Learning" in SDM 2023. And the data is released in: https://pan.baidu.com/s/1dJp31kubUKD5da7fixHaEQ  密码:nyfn
+
 * Requirement
   * python 3.7
   * torch 1.8.1
